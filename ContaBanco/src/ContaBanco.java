@@ -20,6 +20,6 @@ public class ContaBanco {
         scanner.close();
 
         System.out.println("Olá,  " + nomeCliente + " obrigado por criar uma conta em nosso banco, sua agencia é " + agencia + " e sua conta é " + conta + 
-            " e o seu saldo " + saldo + " já está disponível para saque.");
+            " e o seu saldo de" + saldo + " já está disponível para saque.");
     }
 }
